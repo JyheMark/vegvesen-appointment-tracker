@@ -1,0 +1,1275 @@
+{
+	"trafikkstasjoner": [
+		{
+			"navn": "Alta trafikkstasjon",
+			"besoksadresse": "Markveien 49 A,,  Alta",
+			"postadresse": "Postboks 1113,, 9504 Alta",
+			"lengdegrad": 23.278732,
+			"breddegrad": 69.964911,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "601",
+			"svvcompanyid": "974759187000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Arendal trafikkstasjon",
+			"besoksadresse": "Frolandsveien 175, Stoa, Arendal",
+			"postadresse": "Postboks 1704, Stoa, , 4857 Arendal",
+			"lengdegrad": 8.7235,
+			"breddegrad": 58.4641,
+			"zoom": 11,
+			"fylke": "Agder",
+			"trafikkstasjonsnr": "281",
+			"svvcompanyid": "970176500000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Bergen trafikkstasjon (førerkort)",
+			"besoksadresse": "Nygårdsgaten 112, Bergen",
+			"postadresse": "Postboks 874 Sentrum, 5807 Bergen",
+			"lengdegrad": 5.333185,
+			"breddegrad": 60.384322,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "391",
+			"tilbyr": {
+				"oppkjoring": false,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": false
+			}
+		},
+		{
+			"navn": "Bergen trafikkstasjon (kjøretøy)",
+			"besoksadresse": "Heiane 4, Nyborg",
+			"postadresse": "Postboks 874, 5807 Bergen",
+			"lengdegrad": 5.33652,
+			"breddegrad": 60.474933,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "391",
+			"svvcompanyid": "971035188000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Billingstad trafikkstasjon",
+			"besoksadresse": "Stasjonsveien 21, Billingstad",
+			"postadresse": "Postboks 253, 1377 Billingstad",
+			"lengdegrad": 10.485878,
+			"breddegrad": 59.8714798,
+			"zoom": 13,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "061",
+			"svvcompanyid": "971033622000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Bodø trafikkstasjon",
+			"besoksadresse": "Stormyrveien 30, Bodø",
+			"postadresse": "Postboks 77 Stormyra, 8088 Bodø",
+			"lengdegrad": 14.42675,
+			"breddegrad": 67.27852,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "521",
+			"svvcompanyid": "970921753000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Brekstad trafikkstasjon",
+			"besoksadresse": "Fjæraveien , Brekstad",
+			"postadresse": "Postboks 52, 7129 Brekstad",
+			"lengdegrad": 9.662,
+			"breddegrad": 63.694554,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "751",
+			"svvcompanyid": "970959564000000006",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Brønnøysund trafikkstasjon",
+			"besoksadresse": "Salhusmarka 14, Brønnøysund",
+			"postadresse": "Salhusmarka 14, 8907 Brønnøysund",
+			"lengdegrad": 12.245336,
+			"breddegrad": 65.489445,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "512",
+			"svvcompanyid": "970921753000000006",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Drammen trafikkstasjon",
+			"besoksadresse": "Jensvollveien 3, Lier",
+			"postadresse": "Postboks 563, 3412 Lierstranda",
+			"lengdegrad": 10.2468,
+			"breddegrad": 59.7521,
+			"zoom": 13,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "151",
+			"svvcompanyid": "970963987000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Drøbak trafikkstasjon",
+			"besoksadresse": "Loimaaveien 9, Drøbak",
+			"postadresse": "Postboks 55, 1441 Drøbak",
+			"lengdegrad": 10.6488748,
+			"breddegrad": 59.6690562,
+			"zoom": 13,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "051",
+			"svvcompanyid": "971033622000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Egersund trafikkstasjon",
+			"besoksadresse": "Krossmoveien 281, Egersund",
+			"postadresse": "Postboks 130, 4379 Egersund",
+			"lengdegrad": 6.03038,
+			"breddegrad": 58.47741,
+			"zoom": 12,
+			"fylke": "Rogaland",
+			"trafikkstasjonsnr": "681",
+			"svvcompanyid": "971035056000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Elverum trafikkstasjon",
+			"besoksadresse": "Svartbekkveien 25, Elverum",
+			"postadresse": "Svartbekkveien 25, 2406 Elverum",
+			"lengdegrad": 11.319,
+			"breddegrad": 60.8861,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "101",
+			"svvcompanyid": "971033681000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Fagernes trafikkstasjon",
+			"besoksadresse": "Bygdinvegen 160, Fagernes",
+			"postadresse": "Bygdinvegen 160, 2900 Fagernes",
+			"lengdegrad": 9.2267,
+			"breddegrad": 60.987,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "661",
+			"svvcompanyid": "971034548000000005",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Fauske trafikkstasjon",
+			"besoksadresse": "Follaveien 91, Fauske",
+			"postadresse": "Postboks 730, Krokdalsmyra, 8203 Fauske",
+			"lengdegrad": 15.397747,
+			"breddegrad": 67.273692,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "831",
+			"svvcompanyid": "970921753000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Finnsnes trafikkstasjon",
+			"besoksadresse": "Steinbruddveien 1A , Finnsnes",
+			"postadresse": "Postboks 607, 9306 Finnsnes",
+			"lengdegrad": 18.124,
+			"breddegrad": 69.2398,
+			"zoom": 12,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "801",
+			"svvcompanyid": "970937552000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Flekkefjord trafikkstasjon",
+			"besoksadresse": "Nulandsvika, Flekkefjord",
+			"postadresse": "Nulandsvika, 4400 Flekkefjord",
+			"lengdegrad": 6.706,
+			"breddegrad": 58.2837,
+			"zoom": 11,
+			"fylke": "Agder",
+			"trafikkstasjonsnr": "331",
+			"svvcompanyid": "970919783000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Førde trafikkstasjon",
+			"besoksadresse": "Sanderplassen 6, Førde",
+			"postadresse": "Postboks 83, 6801 Førde",
+			"lengdegrad": 5.883715,
+			"breddegrad": 61.446984,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "431",
+			"svvcompanyid": "970541691000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Gjøvik trafikkstasjon",
+			"besoksadresse": "Kontrollveien 4, Hunndalen",
+			"postadresse": "Postboks 159, 2807 Hunndalen",
+			"lengdegrad": 10.6331,
+			"breddegrad": 60.7793,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "131",
+			"svvcompanyid": "971034548000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Gol trafikkstasjon",
+			"besoksadresse": "Hahaugveien 39, Gol",
+			"postadresse": "Hahaugveien 39, 3550 Gol",
+			"lengdegrad": 8.952923,
+			"breddegrad": 60.69663,
+			"zoom": 12,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "671",
+			"svvcompanyid": "970963987000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Gullesfjord kontrollstasjon",
+			"besoksadresse": "Lofastkrysset, Gullesfjord",
+			"postadresse": "8409 Gullesfjord",
+			"lengdegrad": 15.764503,
+			"breddegrad": 68.529465,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "792",
+			"tilbyr": {
+				"oppkjoring": false,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": false
+			}
+		},
+		{
+			"navn": "Hafslund trafikkstasjon",
+			"besoksadresse": "Navestadveien 20, Sarpsborg",
+			"postadresse": "Postboks 53, 1740 Borgenhaugen",
+			"lengdegrad": 11.126018,
+			"breddegrad": 59.262251,
+			"zoom": 12,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "031",
+			"svvcompanyid": "946546577000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Hamar trafikkstasjon",
+			"besoksadresse": "Disenstrandvegen 20, Hamar",
+			"postadresse": "Postboks 4055, 2306 Hamar",
+			"lengdegrad": 11.097372,
+			"breddegrad": 60.794086,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "091",
+			"svvcompanyid": "971033681000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Hammerfest trafikkstasjon",
+			"besoksadresse": "Brenneriveien 24–30, Hammerfest",
+			"postadresse": "Postboks 1126, 9616 Hammerfest",
+			"lengdegrad": 23.6663841,
+			"breddegrad": 70.6696097,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "821",
+			"svvcompanyid": "974759187000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Harstad trafikkstasjon",
+			"besoksadresse": "Åsmyrveien 2, Harstad",
+			"postadresse": "Postboks 3017, 9498 Harstad",
+			"lengdegrad": 16.565795,
+			"breddegrad": 68.782482,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "551",
+			"svvcompanyid": "970937552000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Haugesund trafikkstasjon",
+			"besoksadresse": "Kvaløygata 1, Haugesund",
+			"postadresse": "Postboks 2134, Bedriftspostkontoret, 5504 Haugesund",
+			"lengdegrad": 5.31189,
+			"breddegrad": 59.388424,
+			"zoom": 12,
+			"fylke": "Rogaland",
+			"trafikkstasjonsnr": "361",
+			"svvcompanyid": "971035056000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Hønefoss trafikkstasjon",
+			"besoksadresse": "Hensmoveien 12, Hønefoss",
+			"postadresse": "Postboks 523, 3504 Hønefoss",
+			"lengdegrad": 10.2529,
+			"breddegrad": 60.2207,
+			"zoom": 10,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "141",
+			"svvcompanyid": "970963987000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Jessheim trafikkstasjon",
+			"besoksadresse": "Hovinmovegen 3, Gardermoen",
+			"postadresse": "Postboks 610, 2062 Jessheim",
+			"lengdegrad": 11.159196,
+			"breddegrad": 60.167702,
+			"zoom": 12,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "631",
+			"svvcompanyid": "971033622000000004",
+			"tilbyr": {
+				"oppkjoring": false,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Kirkenes trafikkstasjon",
+			"besoksadresse": "Bjerkengveien 2, 9910 Bjørnevatn",
+			"postadresse": "Postboks 513, 9917 Kirkenes",
+			"lengdegrad": 29.96462,
+			"breddegrad": 69.67477,
+			"zoom": 14,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "811",
+			"svvcompanyid": "974759187000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Kongsberg trafikkstasjon",
+			"besoksadresse": "Gomsrudveien 130, Kongsberg",
+			"postadresse": "Gomsrudveien 130, 3610 Kongsberg",
+			"lengdegrad": 9.6547,
+			"breddegrad": 59.6422,
+			"zoom": 13,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "161",
+			"svvcompanyid": "970963987000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Kongsvinger trafikkstasjon",
+			"besoksadresse": "Kongeveien 3, Kongsvinger",
+			"postadresse": "Postboks 524, Stasjonssida, 2203 Kongsvinger",
+			"lengdegrad": 12.0219,
+			"breddegrad": 60.1865,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "111",
+			"svvcompanyid": "971033681000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Kristiansand trafikkstasjon",
+			"besoksadresse": "Rigedalen 5, Kristiansand",
+			"postadresse": "Rigedalen 5, 4626 Kristiansand",
+			"lengdegrad": 7.939071,
+			"breddegrad": 58.140595,
+			"zoom": 11,
+			"fylke": "Agder",
+			"trafikkstasjonsnr": "311",
+			"svvcompanyid": "970919783000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Kristiansund trafikkstasjon",
+			"besoksadresse": "Verkstedveien 7, 6517 Kristiansund",
+			"postadresse": "Postboks 2114, 6502 Kristiansund",
+			"lengdegrad": 7.7772,
+			"breddegrad": 63.1096,
+			"zoom": 12,
+			"fylke": "Møre og Romsdal",
+			"trafikkstasjonsnr": "461",
+			"svvcompanyid": "971591293000000005",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Kvenvikmoen kontrollstasjon",
+			"besoksadresse": "Kvenvikmoen 2, Alta",
+			"postadresse": "Postboks 1113, 9504 Alta",
+			"lengdegrad": 23.099028,
+			"breddegrad": 69.9284575,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "601",
+			"tilbyr": {
+				"oppkjoring": false,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": false
+			}
+		},
+		{
+			"navn": "Lakselv trafikkstasjon",
+			"besoksadresse": "Holmenveien 3, Lakselv",
+			"postadresse": "Postboks 75, 9711 Lakselv",
+			"lengdegrad": 24.968791,
+			"breddegrad": 70.0396117,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "871",
+			"svvcompanyid": "974759187000000005",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Larvik trafikkstasjon",
+			"besoksadresse": "Nansetgata 36, Larvik",
+			"postadresse": "Nansetgata 36, 3256 Larvik",
+			"lengdegrad": 10.0327,
+			"breddegrad": 59.0561,
+			"zoom": 12,
+			"fylke": "Vestfold og Telemark",
+			"trafikkstasjonsnr": "191",
+			"svvcompanyid": "970938192000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Leknes servicekontor ",
+			"besoksadresse": "Storgata 86, Leknes",
+			"postadresse": "Postboks 124, 8376 Leknes",
+			"lengdegrad": 13.607115,
+			"breddegrad": 68.146119,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "544",
+			"svvcompanyid": "970921753000000009",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Levanger trafikkstasjon",
+			"besoksadresse": "Håkon den godes gate 30, Levanger",
+			"postadresse": "Postboks 213, 7601 Levanger",
+			"lengdegrad": 11.2997770309448,
+			"breddegrad": 63.7459564208984,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "771",
+			"svvcompanyid": "970950885000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Lillehammer trafikkstasjon",
+			"besoksadresse": "Industrigata 1, Lillehammer",
+			"postadresse": "Postboks 1010, 2605 Lillehammer",
+			"lengdegrad": 10.4533,
+			"breddegrad": 61.1263,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "121",
+			"svvcompanyid": "971034548000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Lillestrøm trafikkstasjon",
+			"besoksadresse": "Instituttveien 31, Kjeller",
+			"postadresse": "Postboks 54, 2027 Kjeller",
+			"lengdegrad": 11.04964,
+			"breddegrad": 59.97128,
+			"zoom": 13,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "071",
+			"svvcompanyid": "971033622000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Mandal trafikkstasjon",
+			"besoksadresse": "Sommerkroveien 3, Mandal",
+			"postadresse": "Sommerkroveien 3, 4515 Mandal",
+			"lengdegrad": 7.4744,
+			"breddegrad": 58.0274,
+			"zoom": 13,
+			"fylke": "Agder",
+			"trafikkstasjonsnr": "321",
+			"svvcompanyid": "970919783000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Mo i Rana trafikkstasjon",
+			"besoksadresse": "Svortdalen 21, Mo i Rana",
+			"postadresse": "Postboks 617, 8607 Mo i Rana",
+			"lengdegrad": 14.143546,
+			"breddegrad": 66.306146,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "781",
+			"svvcompanyid": "970921753000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Molde trafikkstasjon",
+			"besoksadresse": "Frænavegen 650, Årødalen, 6422 Molde",
+			"postadresse": "Postboks 2001, 6402 Molde",
+			"lengdegrad": 7.27549,
+			"breddegrad": 62.76542,
+			"zoom": 12,
+			"fylke": "Møre og Romsdal",
+			"trafikkstasjonsnr": "451",
+			"svvcompanyid": "971591293000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Mosjøen trafikkstasjon",
+			"besoksadresse": "Ytterøra 22, Mosjøen",
+			"postadresse": "Postboks 709, 8654 Mosjøen",
+			"lengdegrad": 13.194264,
+			"breddegrad": 65.830712,
+			"zoom": 13,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "511",
+			"svvcompanyid": "970921753000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Mysen trafikkstasjon",
+			"besoksadresse": "Ramstadveien 9, Mysen",
+			"postadresse": "Postboks 64, 1851 Mysen",
+			"lengdegrad": 11.3651344,
+			"breddegrad": 59.5553943,
+			"zoom": 13,
+			"fylke": "Viken",
+			"trafikkstasjonsnr": "621",
+			"svvcompanyid": "946546577000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Namsos trafikkstasjon",
+			"besoksadresse": "Axel Sellægs veg 5, Namsos",
+			"postadresse": "Postboks 203 Sentrum, 7801 Namsos",
+			"lengdegrad": 11.532061,
+			"breddegrad": 64.469687,
+			"zoom": 13,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "501",
+			"svvcompanyid": "970950885000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Narvik trafikkstasjon",
+			"besoksadresse": "Beisfjordveien 10, Narvik",
+			"postadresse": "Postboks 811, 8512 Narvik",
+			"lengdegrad": 17.432899,
+			"breddegrad": 68.411752,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "531",
+			"svvcompanyid": "970921753000000005",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Nordfjordeid trafikkstasjon",
+			"besoksadresse": "Malakoff 2, Nordfjordeid",
+			"postadresse": "Postboks 54, 6771 Nordfjordeid",
+			"lengdegrad": 5.994415,
+			"breddegrad": 61.903328,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "721",
+			"svvcompanyid": "970541691000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Nordkjosbotn kontrollstasjon",
+			"besoksadresse": "9040  Nordkjosbotn",
+			"postadresse": "9040  Nordkjosbotn",
+			"lengdegrad": 19.541114,
+			"breddegrad": 69.213073,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "562",
+			"tilbyr": {
+				"oppkjoring": false,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": false
+			}
+		},
+		{
+			"navn": "Notodden trafikkstasjon",
+			"besoksadresse": "Semsvegen 42, Notodden",
+			"postadresse": "Postboks 524 Heddal, 3673 Notodden",
+			"lengdegrad": 9.2199,
+			"breddegrad": 59.5672,
+			"zoom": 12,
+			"fylke": "Vestfold og Telemark",
+			"trafikkstasjonsnr": "231",
+			"svvcompanyid": "970942890000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Odda trafikkstasjon",
+			"besoksadresse": "Eitrheimsvegen 160, Odda",
+			"postadresse": "Eitrheimsvegen 160, 5750 Odda",
+			"lengdegrad": 6.526308,
+			"breddegrad": 60.093771,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "411",
+			"svvcompanyid": "971035188000000005",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Oppdal trafikkstasjon",
+			"besoksadresse": "Inge Krokanns veg 2, Oppdal",
+			"postadresse": "Inge Krokanns veg 2, 7340 Oppdal",
+			"lengdegrad": 9.687,
+			"breddegrad": 62.5951004028,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "852",
+			"svvcompanyid": "970959564000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Orkdal trafikkstasjon",
+			"besoksadresse": "Bårdshaug vest, Orkanger",
+			"postadresse": "Postboks 26, 7301 Orkanger",
+			"lengdegrad": 9.837624,
+			"breddegrad": 63.296445,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "741",
+			"svvcompanyid": "970959564000000005",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Otta trafikkstasjon",
+			"besoksadresse": "Gudbrandsdalsvegen 947, Otta",
+			"postadresse": "Gudbrandsdalsvegen 947, 2670  Otta",
+			"lengdegrad": 9.553556,
+			"breddegrad": 61.749813,
+			"zoom": 10,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "651",
+			"svvcompanyid": "971034548000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Risløkka trafikkstasjon",
+			"besoksadresse": "Østre Aker vei 50, Oslo",
+			"postadresse": "Postboks 342 Økern, 0513 Oslo",
+			"lengdegrad": 10.820761,
+			"breddegrad": 59.931313,
+			"zoom": 12,
+			"fylke": "Oslo",
+			"trafikkstasjonsnr": "081",
+			"svvcompanyid": "973051113000000000",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Rjukan trafikkstasjon",
+			"besoksadresse": "Svaddeveien 157, Rjukan",
+			"postadresse": "Postboks 524 Heddal, 3673 Notodden",
+			"lengdegrad": 8.6671,
+			"breddegrad": 59.8807,
+			"zoom": 10,
+			"fylke": "Vestfold og Telemark",
+			"trafikkstasjonsnr": "241",
+			"svvcompanyid": "970942890000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Røros trafikkstasjon",
+			"besoksadresse": "Tollef Bredals vei 13, Røros",
+			"postadresse": "Tollef Bredals vei 13, 7374 Røros",
+			"lengdegrad": 11.3766484,
+			"breddegrad": 62.574411,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "853",
+			"svvcompanyid": "970959564000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Sandnessjøen trafikkstasjon",
+			"besoksadresse": "Torolv Kveldulvsonsgate 7, Sandnessjøen",
+			"postadresse": "Postboks 64, 8801 Sandnessjøen",
+			"lengdegrad": 12.6386704,
+			"breddegrad": 66.0239088,
+			"zoom": 13,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "513",
+			"svvcompanyid": "970921753000000010",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Sauda kundesenter",
+			"besoksadresse": "Birkelandsvegen 80 , 4200 Sauda",
+			"postadresse": "Birkelandsvegen 80 , 4200 Sauda",
+			"lengdegrad": 6.40723,
+			"breddegrad": 59.65949,
+			"zoom": 12,
+			"fylke": "Rogaland",
+			"trafikkstasjonsnr": "362",
+			"svvcompanyid": "971035056000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Setesdal trafikkstasjon",
+			"besoksadresse": "Bjoråvegen 3, Evje",
+			"postadresse": "Bjoråvegen 3, 4735 Evje",
+			"lengdegrad": 7.79,
+			"breddegrad": 58.5796,
+			"zoom": 12,
+			"fylke": "Agder",
+			"trafikkstasjonsnr": "291",
+			"svvcompanyid": "970176500000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Skien trafikkstasjon",
+			"besoksadresse": "Leirvollen 10, Skien",
+			"postadresse": "Postboks 2874, 3702 Skien",
+			"lengdegrad": 9.6374,
+			"breddegrad": 59.1653,
+			"zoom": 12,
+			"fylke": "Vestfold og Telemark",
+			"trafikkstasjonsnr": "211",
+			"svvcompanyid": "970942890000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Sogndal trafikkstasjon",
+			"besoksadresse": "Stedjevegen 41, Sogndal",
+			"postadresse": "Postboks 254, 6852 Sogndal",
+			"lengdegrad": 7.101181,
+			"breddegrad": 61.226067,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "711",
+			"svvcompanyid": "970541691000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Sortland trafikkstasjon",
+			"besoksadresse": "Markveien 36, Sortland",
+			"postadresse": "Postboks 1102, 8405 Sortland",
+			"lengdegrad": 15.391824,
+			"breddegrad": 68.708671,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "791",
+			"svvcompanyid": "970921753000000007",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Stavanger trafikkstasjon",
+			"besoksadresse": "Christian August Thoringsveg 12, Stavanger",
+			"postadresse": "Postboks 8074, 4068 Stavanger",
+			"lengdegrad": 5.693901,
+			"breddegrad": 58.899204,
+			"zoom": 12,
+			"fylke": "Rogaland",
+			"trafikkstasjonsnr": "351",
+			"svvcompanyid": "971035056000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Steinkjer trafikkstasjon",
+			"besoksadresse": "Byavegen 48, Steinkjer",
+			"postadresse": "Postboks 2585, 7737 Steinkjer",
+			"lengdegrad": 11.5001,
+			"breddegrad": 64.0256,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "491",
+			"svvcompanyid": "970950885000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Stjørdal trafikkstasjon",
+			"besoksadresse": "Tuftenveien 6, Stjørdal",
+			"postadresse": "Postboks 230,  7501  Stjørdal",
+			"lengdegrad": 10.892547,
+			"breddegrad": 63.475351,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "761",
+			"svvcompanyid": "970950885000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Stord trafikkstasjon",
+			"besoksadresse": "Vabakkjen 7, Stord",
+			"postadresse": "Postboks 394, 5403 Stord",
+			"lengdegrad": 5.484187,
+			"breddegrad": 59.774258,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "691",
+			"svvcompanyid": "971035188000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Stormyra sambruksstasjon ",
+			"besoksadresse": "Leirvik 201, 8517 Narvik",
+			"lengdegrad": 17.526602,
+			"breddegrad": 68.48485,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "532",
+			"tilbyr": {
+				"oppkjoring": false,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": false
+			}
+		},
+		{
+			"navn": "Storslett trafikkstasjon",
+			"besoksadresse": "Sentrum 33, Storslett",
+			"postadresse": "Postboks 103, 9156 Storslett",
+			"lengdegrad": 21.0293417,
+			"breddegrad": 69.7711885,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "881",
+			"svvcompanyid": "970937552000000005",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Sunndalsøra trafikkstasjon",
+			"besoksadresse": "Romsdalsvegen 2, Sunndalsøra",
+			"postadresse": "Postboks 182, 6601 Sunndalsøra",
+			"lengdegrad": 8.5619,
+			"breddegrad": 62.6746,
+			"zoom": 12,
+			"fylke": "Møre og Romsdal",
+			"trafikkstasjonsnr": "841",
+			"svvcompanyid": "971591293000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Svolvær trafikkstasjon",
+			"besoksadresse": "Vorsetøyveien 17, Svolvær",
+			"postadresse": "Postboks 245, 8301 Svolvær",
+			"lengdegrad": 14.557915,
+			"breddegrad": 68.228796,
+			"zoom": 12,
+			"fylke": "Nordland",
+			"trafikkstasjonsnr": "541",
+			"svvcompanyid": "970921753000000008",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Tromsdalen kontrollstasjon",
+			"besoksadresse": "Nordlysvegen 120, Tromsdalen",
+			"postadresse": "Postboks 6164, 9291 Tromsø",
+			"lengdegrad": 18.960916,
+			"breddegrad": 69.634917,
+			"zoom": 12,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "561",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": false
+			}
+		},
+		{
+			"navn": "Tromsø trafikkstasjon",
+			"besoksadresse": "Stakkevollvegen 35/37, Tromsø",
+			"postadresse": "Postboks 6164, 9291 Tromsø",
+			"lengdegrad": 18.969215,
+			"breddegrad": 69.666461,
+			"zoom": 12,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "561",
+			"svvcompanyid": "970937552000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": false,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Trondheim trafikkstasjon",
+			"besoksadresse": "Sluppenvegen 4, Trondheim",
+			"postadresse": "Postboks 6030, 7434 Trondheim",
+			"lengdegrad": 10.401564,
+			"breddegrad": 63.398575,
+			"zoom": 12,
+			"fylke": "Trøndelag",
+			"trafikkstasjonsnr": "471",
+			"svvcompanyid": "970959564000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Tynset trafikkstasjon",
+			"besoksadresse": "Østre Brekkveien 40, Tynset",
+			"postadresse": "Østre Brekkveien 40, 2500 Tynset",
+			"lengdegrad": 10.7432,
+			"breddegrad": 62.2652,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "641",
+			"svvcompanyid": "971033681000000004",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Tønsberg trafikkstasjon",
+			"besoksadresse": "Åshaugveien 31, Sem",
+			"postadresse": "Postboks 113, 3107 Sem",
+			"lengdegrad": 10.35411,
+			"breddegrad": 59.293049,
+			"zoom": 10,
+			"fylke": "Vestfold og Telemark",
+			"trafikkstasjonsnr": "181",
+			"svvcompanyid": "970938192000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Vadsø trafikkstasjon",
+			"besoksadresse": "Båtsfjordveien 16, Vadsø",
+			"postadresse": "Postboks 703, 9815 Vadsø",
+			"lengdegrad": 29.7127896,
+			"breddegrad": 70.0834027,
+			"zoom": 13,
+			"fylke": "Troms og Finnmark",
+			"trafikkstasjonsnr": "591",
+			"svvcompanyid": "974759187000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Voss trafikkstasjon",
+			"besoksadresse": "Flyplassvegen 8, Voss",
+			"postadresse": "Flyplassvegen 8, 5705 Voss",
+			"lengdegrad": 6.478672,
+			"breddegrad": 60.637804,
+			"zoom": 12,
+			"fylke": "Vestland",
+			"trafikkstasjonsnr": "701",
+			"svvcompanyid": "971035188000000002",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Ørsta trafikkstasjon",
+			"besoksadresse": "Langemyra 5, Hovdebygda",
+			"postadresse": "Langemyra 5, 6160 Hovdebygda",
+			"lengdegrad": 6.0862,
+			"breddegrad": 62.1817,
+			"zoom": 12,
+			"fylke": "Møre og Romsdal",
+			"trafikkstasjonsnr": "731",
+			"svvcompanyid": "971591293000000003",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Ålesund trafikkstasjon",
+			"besoksadresse": "Vestre Olsvikveg 13, Ålesund",
+			"postadresse": "Postboks 8307 Spjelkavik, 6022 Ålesund",
+			"lengdegrad": 6.3621,
+			"breddegrad": 62.4734,
+			"zoom": 12,
+			"fylke": "Møre og Romsdal",
+			"trafikkstasjonsnr": "441",
+			"svvcompanyid": "971591293000000001",
+			"tilbyr": {
+				"oppkjoring": true,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": true
+			}
+		},
+		{
+			"navn": "Ånestad kontrollstasjon",
+			"besoksadresse": "Kongsvegen 1635, 2340 Løten",
+			"lengdegrad": 11.3753267,
+			"breddegrad": 60.8490575,
+			"zoom": 12,
+			"fylke": "Innlandet",
+			"trafikkstasjonsnr": "099",
+			"tilbyr": {
+				"oppkjoring": false,
+				"kjoretoykontrollTimebestilling": true,
+				"skilttjenester": false
+			}
+		}
+	]
+}
