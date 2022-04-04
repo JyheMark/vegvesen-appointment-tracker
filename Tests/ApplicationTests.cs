@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using Microsoft.Extensions.Logging;
 using Moq;
 using Statens_Vegvesen.Api.Responses;
 using TrackerRunner;
@@ -39,7 +40,7 @@ public class ApplicationTests
         _notificationMessageBuilder.Setup(p => p.CreateNotificationMessage(It.IsAny<IEnumerable<Appointment>>())).Returns(_testNotificationMessageResponse);
         _appointmentProvider.Setup(p => p.FetchAppointments()).Returns(_testAppointmentResponse);
 
-        _sut = new Application(_appointmentProvider.Object, _notificationMessageBuilder.Object, _notificationDispatcher.Object);
+        _sut = new Application(new Mock<ILogger<Application>>().Object, _appointmentProvider.Object, _notificationMessageBuilder.Object, _notificationDispatcher.Object);
     }
 
     [Fact]

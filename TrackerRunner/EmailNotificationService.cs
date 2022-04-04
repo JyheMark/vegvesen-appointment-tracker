@@ -13,7 +13,6 @@ public class EmailNotificationService : INotificationDispatcher
     private readonly ApplicationConfiguration _applicationConfiguration;
 
     private readonly string _fromAddress;
-    private readonly string _fromPassword;
     private readonly SmtpClient _smtpClient;
     private readonly string _subject;
     private readonly string _toAddress;
@@ -24,8 +23,9 @@ public class EmailNotificationService : INotificationDispatcher
 
         _fromAddress = applicationConfiguration.EmailSettings.FromAddress;
         _toAddress = applicationConfiguration.EmailSettings.ToAddress;
-        _fromPassword = applicationConfiguration.EmailSettings.FromAccountPassword;
         _subject = "Vegvesen appointment availabilities";
+
+        string fromPassword = applicationConfiguration.EmailSettings.FromAccountPassword;
 
         _smtpClient = new SmtpClient
         {
@@ -34,7 +34,7 @@ public class EmailNotificationService : INotificationDispatcher
             EnableSsl = true,
             DeliveryMethod = SmtpDeliveryMethod.Network,
             UseDefaultCredentials = false,
-            Credentials = new NetworkCredential(_fromAddress, _fromPassword)
+            Credentials = new NetworkCredential(_fromAddress, fromPassword)
         };
     }
 

@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Json;
@@ -34,7 +35,7 @@ public class AppointmentProvider : IAppointmentProvider
             HttpResponseMessage response = _client.SendRequest(request);
 
             if (!response.IsSuccessStatusCode)
-                return null;
+                throw new Exception($"Responded with {response.StatusCode}: {response.ReasonPhrase}");
 
             IEnumerable<Appointment> appointments = response.Content.ReadFromJsonAsync<IEnumerable<Appointment>>().Result;
 
