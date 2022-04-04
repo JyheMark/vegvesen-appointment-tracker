@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -8,7 +7,7 @@ namespace TrackerRunner;
 
 public static class Program
 {
-    private static async Task Main(string[] args)
+    public static void Main(string[] args)
     {
         IHost host = Host.CreateDefaultBuilder(args)
             .ConfigureServices(ConfigureServices)

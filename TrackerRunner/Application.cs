@@ -1,5 +1,4 @@
 ﻿using System.Collections.Generic;
-using System.Linq;
 using Statens_Vegvesen.Api.Responses;
 
 namespace TrackerRunner;
